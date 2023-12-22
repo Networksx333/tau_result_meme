@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tau_result_meme/static/css/main.ccc0f0ab.css",
-    "main.js": "/tau_result_meme/static/js/main.2b6aad8b.js",
+    "main.js": "/tau_result_meme/static/js/main.1aed2b57.js",
     "index.html": "/tau_result_meme/index.html",
     "main.ccc0f0ab.css.map": "/tau_result_meme/static/css/main.ccc0f0ab.css.map",
-    "main.2b6aad8b.js.map": "/tau_result_meme/static/js/main.2b6aad8b.js.map"
+    "main.1aed2b57.js.map": "/tau_result_meme/static/js/main.1aed2b57.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc0f0ab.css",
-    "static/js/main.2b6aad8b.js"
+    "static/js/main.1aed2b57.js"
   ]
 }
