@@ -1,0 +1,2 @@
+body{animation:gradientAnimation 15s ease infinite;background:linear-gradient(45deg,purple,blue,#f0f,purple);background-size:400% 400%}@keyframes gradientAnimation{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}.countdown{color:#fff;font-family:Arial,sans-serif;font-size:32px;margin-top:50px;text-align:center}.countdown-timer{display:flex;justify-content:center;margin-top:20px}.countdown-item{font-size:48px;margin:0 10px}.countdown-item p{font-size:24px;margin-top:10px}
+/*# sourceMappingURL=main.ccc0f0ab.css.map*/
